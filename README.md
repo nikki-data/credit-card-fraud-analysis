@@ -32,7 +32,7 @@ The goal is to help a bank's fraud risk team identify suspicious transactions, r
 - `fraud_analysis.sql` – SQL queries used for analysis.
 - `Fraud_Analysis.xlsx` – Excel analysis and supporting calculations.
 - CSV files – Exported analysis results.
-- `Credit Card Fraud Report1.pdf` – Final project report.
+- `- [Credit Card Fraud Capstone Report](Credit_Card_Fraud_Capstone_Report1.pdf) – Final project report` – Final project report.
 
 ## Tableau Dashboard
 [https://public.tableau.com/app/profile/nikki.mishra/viz/frauddashboard_17950068488900/Dashboard1}
