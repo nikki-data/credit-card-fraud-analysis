@@ -1,0 +1,16 @@
+category,time_of_day,total_txns,fraud_txns,fraud_rate_pct
+shopping_net,"Night (10pm-3:59am)",24221,1455,6.01
+misc_net,"Night (10pm-3:59am)",19657,779,3.96
+grocery_pos,"Night (10pm-3:59am)",41833,1500,3.59
+shopping_pos,"Night (10pm-3:59am)",27282,687,2.52
+travel,"Night (10pm-3:59am)",6855,94,1.37
+personal_care,"Night (10pm-3:59am)",15167,187,1.23
+gas_transport,"Night (10pm-3:59am)",44172,541,1.22
+entertainment,"Night (10pm-3:59am)",18534,197,1.06
+kids_pets,"Night (10pm-3:59am)",18938,199,1.05
+misc_pos,"Night (10pm-3:59am)",20987,203,0.97
+home,"Night (10pm-3:59am)",20519,175,0.85
+grocery_net,"Night (10pm-3:59am)",15299,114,0.75
+food_dining,"Night (10pm-3:59am)",17168,127,0.74
+health_fitness,"Night (10pm-3:59am)",14250,104,0.73
+shopping_net,Daytime,73322,258,0.35

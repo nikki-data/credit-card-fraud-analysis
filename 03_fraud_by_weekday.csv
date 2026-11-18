@@ -1,0 +1,8 @@
+dow_name,total_txns,fraud_txns,fraud_rate_pct
+Sunday,250579,1216,0.49
+Monday,254282,1182,0.46
+Tuesday,160227,935,0.58
+Wednesday,131073,859,0.66
+Thursday,147285,1008,0.68
+Friday,152272,1079,0.71
+Saturday,200957,1227,0.61

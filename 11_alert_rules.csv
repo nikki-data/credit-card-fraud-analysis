@@ -1,0 +1,5 @@
+rule,flagged_txns,fraud_caught,pct_flagged_that_are_fraud,pct_of_all_fraud_caught,pct_of_all_txns_flagged
+"A: Amount >= $200",61930,5704,9.21,76.0,4.8
+"B: Night (10pm-3:59am)",304882,6362,2.09,84.8,23.5
+"C: Night AND amount >= $200",18090,4842,26.77,64.5,1.4
+"D: Night AND amount >= $200 AND high-risk category",13034,4421,33.92,58.9,1.0
