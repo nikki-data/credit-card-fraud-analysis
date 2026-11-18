@@ -35,7 +35,7 @@ The goal is to help a bank's fraud risk team identify suspicious transactions, r
 - `Credit Card Fraud Report1.pdf` – Final project report.
 
 ## Tableau Dashboard
-[Add your Tableau Public dashboard link here after publishing.]
+[https://public.tableau.com/app/profile/nikki.mishra/viz/frauddashboard_17950068488900/Dashboard1}
 
 ## Recommendations
 Implement additional transaction verification, such as OTP verification or a temporary hold, for transactions of $200 or more occurring between 10 PM and 3:59 AM.
