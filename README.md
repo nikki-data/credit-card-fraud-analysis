@@ -32,10 +32,11 @@ The goal is to help a bank's fraud risk team identify suspicious transactions, r
 - `fraud_analysis.sql` – SQL queries used for analysis.
 - `Fraud_Analysis.xlsx` – Excel analysis and supporting calculations.
 - CSV files – Exported analysis results.
-- `- [Credit Card Fraud Capstone Report](Credit_Card_Fraud_Capstone_Report1.pdf) – Final project report` – Final project report.
+- [Credit Card Fraud Capstone Report](Credit_Card_Fraud_Capstone_Report1.pdf) – Final project report.
 
 ## Tableau Dashboard
-[https://public.tableau.com/app/profile/nikki.mishra/viz/frauddashboard_17950068488900/Dashboard1}
+
+[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/nikki.mishra/viz/frauddashboard_17950068488900/Dashboard1)
 
 ## Recommendations
 Implement additional transaction verification, such as OTP verification or a temporary hold, for transactions of $200 or more occurring between 10 PM and 3:59 AM.
